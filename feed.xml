@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>בית הכנסת מוסאיוף</title>
-    <description>שיעורי תורה - בית הכנסת מוסאיוף - אוצר התורה</description>
+    <description>שיעורי תורה ממיטב רבני ישראל מבית הכנסת מוסאיוף. הלכה, אמונה, מוסר, פרשת שבוע וקבלה - שיעורים מלאים מהיכל התורה בירושלים - אוצר התורה.</description>
+    <itunes:summary>שיעורי תורה ממיטב רבני ישראל מבית הכנסת מוסאיוף. הלכה, אמונה, מוסר, פרשת שבוע וקבלה - שיעורים מלאים מהיכל התורה בירושלים - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/musayof</link>
     <language>he</language>
     <itunes:author>בית הכנסת מוסאיוף</itunes:author>
